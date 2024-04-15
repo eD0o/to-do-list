@@ -1,0 +1,5 @@
+- configure styled components
+- configure redux
+- structure kanban
+- configure some dnd dependency if necessary
+- implement light mode
